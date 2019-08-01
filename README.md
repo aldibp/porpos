@@ -1,6 +1,16 @@
 Framework Laravel 
 menggunakan berbagai Package Library
 
+Fitur-fitur ini diantaranya =>
+- Administrasi buku untuk Admin
+- Administrasi user untuk Admin
+- Administrasi untuk Registered User
+- Peminjaman buku untuk Registered User
+- Browsing buku untuk non-member
+- Dashboard dengan chart untuk Admin
+- Import dan Export Excel
+- Export PDF
+
 setting jika ingin mencoba =>
 - composer install, 
 - ubah .env.example menjadi .env (copy saja)
