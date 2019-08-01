@@ -1,5 +1,5 @@
 Framework Laravel 
-menggunakan berbagai Package Library
+menggunakan berbagai Package Libbrary
 
 Fitur-fitur ini diantaranya =>
 - Administrasi buku untuk Admin
